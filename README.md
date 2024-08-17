@@ -14,7 +14,7 @@ Para alojar la base de datos SQL Server es necesario instalar SQL Server Managem
 Clonar el proyecto
 
 ```bash
-  git clone https://github.com/ljllanosl/user-app-wayni-nack
+  git clone https://github.com/ljllanosl/user-app-wayni-back
 ```
 
 Ir al directorio del proyecto e instalar las dependencias
